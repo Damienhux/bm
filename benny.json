@@ -4,8 +4,8 @@
   "wake_word": "Бенни",
   "author": "Демьян",
   "trained_languages": ["ru"],
-  "model": "benny.tflite",
   "micro": {
+    "model": "benny.tflite",
     "probability_cutoff": 0.5,
     "sliding_window_size": 10,
     "feature_step_size": 10,
