@@ -3,7 +3,6 @@
   "version": 2,
   "wake_word": "Бенни",
   "author": "Демьян",
-  "website": "",
   "trained_languages": ["ru"],
   "model": "benny.tflite",
   "micro": {
